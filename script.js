@@ -5,3 +5,6 @@ document.querySelectorAll('.nav-link').forEach(anchor => {
         document.getElementById(targetId).scrollIntoView({ behavior: 'smooth' });
     });
 });
+
+
+
